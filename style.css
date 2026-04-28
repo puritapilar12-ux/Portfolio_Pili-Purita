@@ -94,7 +94,7 @@ body  { font-family: var(--ff-body); color: var(--text-dark); background: var(--
   font-family: var(--ff-display);
   font-size: 44px;
   font-weight: 700;
-  color: var(--purple-deep);
+  color: black;
   margin-bottom: 2.5rem;
   letter-spacing: 0.02em;
 }
