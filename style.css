@@ -105,7 +105,7 @@ body  { font-family: var(--ff-body); color: var(--text-dark); background: var(--
 } ---------- */
 .pp-fotos-wrapper {
   position: relative;
-  height: 380px;
+  height: 60px;
 }
 .pp-foto {
   position: absolute;
