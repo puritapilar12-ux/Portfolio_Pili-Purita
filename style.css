@@ -76,7 +76,7 @@ body  { font-family: var(--ff-body); color: var(--text-dark); background: var(--
 
 /* ---------- HERO ---------- */
 .pp-hero {
-  width: 100%;
+  width: 30%;
   position: relative;
 }
 .pp-hero-img {
