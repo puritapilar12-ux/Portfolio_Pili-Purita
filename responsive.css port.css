@@ -1,0 +1,50 @@
+@media (max-width: 768px) {
+
+  h2 { font-size: 1.8rem; }
+  h3 { font-size: 1.4rem; }
+  h4 { font-size: 1.1rem; }
+  p  { font-size: 16px; }
+
+  .sobre-texto {
+    font-size: 16px;
+  }
+
+  .worn-hero {
+    flex-direction: column;
+    padding: 20px;
+  }
+  .worn-texto {
+    width: 100%;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .worn-mockups {
+    width: 100%;
+  }
+
+  .grid-proyecto {
+    grid-template-columns: 1fr 1fr;
+  }
+  .img-par {
+    height: 300px;
+  }
+
+  .grid-eclipse {
+    grid-template-columns: 1fr;
+  }
+  .eclipse-video {
+    grid-column: 1;
+  }
+  .eclipse-foto {
+    height: 250px;
+  }
+
+  .grid-posters {
+    grid-template-columns: 1fr;
+    max-width: 100%;
+  }
+
+  .carrusel-chico {
+    max-width: 100%;
+  }
+}
